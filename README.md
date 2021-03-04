@@ -1,4 +1,5 @@
-# hello-world
-My First
+# Ugly-Modules
 
-My name is Bob and I'm a prospective programmer.
+Warning!!!
+
+This repository contains the ugliest VCV Rack modules ever concieved by human beings.
